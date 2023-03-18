@@ -1,0 +1,20 @@
+.navbar,.footer-basic{
+    background: #023047;
+}
+.footer-basic a{
+    color: white;
+}
+
+.nav-item a{
+    color: #73777B;
+    font-weight: bolder;
+}
+.nav-item a:hover{
+    color:white;
+}
+.navbar-nav{
+    margin-top: 5px;
+}
+.error{
+    color: red;
+}
